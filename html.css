@@ -1,0 +1,113 @@
+
+    
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 100px;
+    margin-left: 450px;
+    margin-top: 50px;
+    font-style: unset;
+    color: #e22929;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+    
+body {
+    background-image: url('https://st2.depositphotos.com/33704592/48550/i/450/depositphotos_485504272-stock-photo-abstract-hexagonal-background-grunge-polygonal.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+
+
+
+.name{
+    font-size: 40px;
+    color: #f1f1f1;
+    margin-left: 250px;
+    margin-top: 200px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+p{
+    font-size: 23px;
+    color: #cfcbcbcd;
+}
+
+
+
+.btn {
+    
+    padding: 10px 20px;
+    background-color: #f91c1c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 250px;
+}
+
+.btn:hover {
+    background-color: #f62323; 
+}
+
+
+
+
+.about{
+font-size: 30px;
+color: #f70b0b;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 700px;
+margin-top: 400px;
+}
+
+
+
+
+button{
+    margin-left: 0px;
+    padding: 10px 20px;
+    background-color: #f91c1c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: -100px;   
+    
+}
+
+
+
+.image{
+    margin-top: -300px;
+}
+
+
+
+
+
+.special{
+    color: #e10b0b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-top: 300px;
+    margin-left: 600px  ;
+
+
+}
+
+
+
+.sp{
+    margin-left: 600px;
+}
+
+
+
+
